@@ -31,7 +31,9 @@ html {
 .legend {
   line-height: 18px;
   color: #000;
+  width: 80px;
 }
+
 .legend i {
   width: 18px;
   height: 18px;
